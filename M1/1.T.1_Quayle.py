@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 22 23:51:38 2025
 
-@author: 19105
-"""
 
 # Queue implementation with basic operations
 class Queue:
